@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="blue">#1CC9FE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="lightone">#7F00A2FF</color>
+    <color name="light">#1cc9ff</color>
+    <color name="normal_color">#ff13c7ff</color>
+    <color name="sport_color">#fb8218</color>
+
+    <color name="hadnormal_color">#00ebff</color>
+    <color name="hadsport_color">#e2525d</color>
+    <color name="grey">#999999</color>
+
+    <color name="starnormal_color">#70f3ff</color>
+    <color name="starsport_color">#f0c280</color>
+    <color name="blackgoldnormal_color">#ffb86c</color>
+    <color name="blackgoldsport_color">#e2525d</color>
+    <color name="eyeshotnormal_color">#70f3ff</color>
+    <color name="eyeshotsport_color">#efb76e</color>
+
+    <color name="bussinessnormal_color">#67e6f8</color>
+    <color name="bussinesssport_color">#e07d7f</color>
+    <color name="bussinessnormal_select">#ffffff</color>
+    <color name="bussinesssport_select">#ffffff</color>
+
+    <color name="elegantnormal_color">#ffd48e</color>
+    <color name="elegantsport_color">#ff851a</color>
+    <color name="eco_color">#67e6f8</color>
+    <!--<color name="sport_color">#e07d7f</color>-->
+    <color name="steco_nocheck_color">#ff13c7ff</color>
+    <color name="steco_check_color">#ffffff</color>
+    <color name="stsport_nocheck_color">#fb8218</color>
+    <color name="stsport_check_color">#ffffff</color>
+
+    <color name="hadeco_nocheck_color">#999999</color>
+    <color name="hadeco_check_color">#ffffff</color>
+    <color name="hadsport_nocheck_color">#999999</color>
+    <color name="hadsport_check_color">#ffffff</color>
+
+    <color name="blackgoldeco_nocheck_color">#ffffff</color>
+    <color name="blackgoldeco_check_color">#ffb86c</color>
+    <color name="blackgoldsport_nocheck_color">#ffffff</color>
+    <color name="blackgoldsport_check_color">#e2525d</color>
+
+    <color name="eyeshoteco_nocheck_color">#ffffff</color>
+    <color name="eyeshoteco_check_color">#70f3ff</color>
+    <color name="eyeshotsport_nocheck_color">#ffffff</color>
+    <color name="eyeshotsport_check_color">#efb76e</color>
+
+    <color name="selector_press">#ff13c7ff</color>
+    <color name="service_item_confirm_color">#4d4d4d</color>
+</resources>

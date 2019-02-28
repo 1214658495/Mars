@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">مسجل القيادة</string>
+    <string name="back"> الى الخلف</string>
+    <string name="live_video">الة تصوير</string>
+    <string name="playback_list">قائمة الوسائط</string>
+    <string name="setting">ضبط</string>
+
+    <string name="system">النظام</string>
+    <string name="storageCard_format">بطاقة تخزين فورما</string>
+
+    <string name="cancel">إلغاء</string>
+    <string name="share">شارك</string>
+    <string name="export">تصدير</string>
+    <string name="delete">حذف</string>
+    <string name="selectAll">الكل</string>
+
+    <string name="record_video">تسجيل الفيديو</string>
+    <string name="lock_video">قفل الفيديو </string>
+    <string name="photo">صورة </string>
+
+    <string name="restore_defaults">استعادة الضبط الافتراضي</string>
+    <string name="version">الإصدار</string>
+    <string name="firmware_version">نسخة برنامج ثابت</string>
+    <string name="app_version">نسخة التطبيق</string>
+
+    <string name="Pictures_success">صور النجاح</string>
+    <string name="Pictures_fail">الصور تفشل</string>
+    <string name="LockVideo_start">قفل بداية الفيديو</string>
+    <string name="LockVideo_fail">قفل الفيديو فاي</string>
+    <string name="openVideo_fail">افتح فشل الفيديو</string>
+    <string name="closeVideo_fail">إغلاق فيديو فشل</string>
+    <string name="connect_fail">...اتصال الشبكة</string>
+    <string name="ok">حسنا</string>
+    <string name="close">قفل</string>
+    <string name="logo_text">BYD مسجل القيادة</string>
+    <string name="card_removed">أدخل بطاقة من فضلك</string>
+    <string name="card_inserted">بطاقة التخزين المدرجة</string>
+    <string name="reboot_drivingReorder">إعادة تشغيل القيادة إعادة ترتيب</string>
+    <string name="format_finished">تنسيق انتهى</string>
+    <string name="format_fail">فشل تنسيق ، تأكيد لإعادة صياغة؟</string>
+    <string name="downloading">تصدير</string>
+    <string name="Download_completed">تصديرها إلى المحلية</string>
+    <string name="Download_fail">فشل التصدير</string>
+    <string name="File_downloaded">ملف تصدير</string>
+    <string name="open_permissions">الرجاء فتح أذونات التخزين في التطبيق</string>
+    <string name="share_to">حصة ل</string>
+    <string name="video_cannot_share">لا يمكن مشاركة الفيديو الآن</string>
+    <string name="select_to_download">يرجى اختيار ملف للتنزيل</string>
+    <string name="confirm_delete">هل أنت متأكد من حذف</string>
+    <string name="Reconnecting">إعادة الاتصال</string>
+    <string name="restore_settings">تأكيد استعادة الإعدادات الافتراضية؟</string>
+    <string name="confirm_format_memory_card">تنسيق بطاقة التخزين</string>
+    <string name="time_out">الوقت خارج متصلة</string>
+    <string name="download_num">تصدير العدد الأقصى من تسعة</string>
+    <string name="download_num_tv">تصدير عدد الحد الأقصى خمسة</string>
+    <string name="download_free_space">عدم وجود مساحة تخزين النظام</string>
+    <string name="card_readying">بطاقة الاستعداد</string>
+    <string name="image_max">صورة المتجر الكامل</string>
+    <string name="card_issue">إصدار البطاقة</string>
+    <string name="card_write_protect">بطاقة كتابة حماية</string>
+    <string name="card_not_enough">البطاقة غير كافية</string>
+    <string name="card_need_format">بطاقة تخزين غير منسقة</string>
+    <string name="sensor_issue">خطأ في إشارة الفيديو</string>
+    <string name="video_locking">قفل الفيديو</string>
+    <string name="immediately_format">على الفور التنسيق</string>
+    <string name="later_format">تنسيق لاحق</string>
+    <string name="card_need_format_detail">يمكنك النقر [الإعداد] إلى التنسيق</string>
+    <string name="reformat">إعادة</string>
+    <string name="check_version">تحقق من الإصدار الجديد</string>
+    <string name="version_newest">الإصدار هو الأحدث</string>
+    <string name="storage_card_formatting">التنسيق</string>
+    <string name="delete_fail">حذف فشل</string>
+    <string name="delete_success">حذف النجاح</string>
+    <string name="open_voice">افتح الصوت</string>
+    <string name="close_voice">إغلاق الصوت</string>
+    <string name="voice_settingfail">فشل الإعداد الصوتي</string>
+    <string name="invalid_token">رمز غير صالح</string>
+    <string name="select_file">يرجى اختيار أولا</string>
+    <string name="LockVideo_end">قفل فيديو النهاية</string>
+    <string name="video_locking_format_later">تأمين الفيديو ، يرجى التنسيق فيما بعد</string>
+    <string name="export_address">تصدير ملف إلى مسجل القيادة المحلية</string>
+    <string name="deleting">حذف</string>
+    <string name="get_firmware_version_fail">الحصول على إصدار البرامج الثابتة فشل</string>
+
+    <string name="app_testName">记录仪临时版</string>
+</resources>
